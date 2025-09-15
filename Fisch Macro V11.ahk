@@ -881,6 +881,7 @@ if (ErrorLevel == 0)
 else
 	{
 	tooltip, , , , 10
+
 	tooltip, , , , 11
 	tooltip, , , , 12
 	tooltip, , , , 13
@@ -891,4 +892,29 @@ else
 	tooltip, , , , 20
 	sleep %RestartDelay%
 	goto RestartMacro
+
 	}
+natro ("end")
+
+ }
+}
+
+   hypersleep[natro('red')]
+   hypersleep[natro('orange')]
+   hypersleep = streak end
+}   
+    }
+
+pixelchange range in i EndShakeScanTop = fisch
+pixelchange range in i EndShakeScanTop = end
+screentext ("Your Macro is broken!")
+
+"stack end"
+}     
+    }
+
+import as servicemarco ("line916"[N])
+(]'print chatservice as N')
+
+===========================
+["submacro setting tip"])
